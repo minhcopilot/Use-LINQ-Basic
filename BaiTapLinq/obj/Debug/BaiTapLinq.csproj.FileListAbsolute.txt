@@ -1,0 +1,7 @@
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\obj\Debug\BaiTapLinq.csproj.AssemblyReference.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\obj\Debug\BaiTapLinq.csproj.CoreCompileInputs.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\bin\Debug\BaiTapLinq.exe.config
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\bin\Debug\BaiTapLinq.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\bin\Debug\BaiTapLinq.pdb
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\obj\Debug\BaiTapLinq.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BaiTapLinq\BaiTapLinq\obj\Debug\BaiTapLinq.pdb
